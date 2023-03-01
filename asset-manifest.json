@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/playground_Jaeseok/static/js/main.1c92d217.js",
+    "main.css": "/playground_Jaeseok/static/css/main.babbf6f0.css",
+    "main.js": "/playground_Jaeseok/static/js/main.2ad4cfbc.js",
     "index.html": "/playground_Jaeseok/index.html",
-    "main.1c92d217.js.map": "/playground_Jaeseok/static/js/main.1c92d217.js.map"
+    "main.babbf6f0.css.map": "/playground_Jaeseok/static/css/main.babbf6f0.css.map",
+    "main.2ad4cfbc.js.map": "/playground_Jaeseok/static/js/main.2ad4cfbc.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c92d217.js"
+    "static/css/main.babbf6f0.css",
+    "static/js/main.2ad4cfbc.js"
   ]
 }
